@@ -3,7 +3,7 @@
 This project analyzes student performance using Python and presents insights through visualizations.
 
 ## 📁 Files
-- `student_performance.csv`:  Dataset containing 100 student records
+- `student_performance.csv`: Dataset containing 100 student records
 - `student_performance_dashboard.ipynb`: Jupyter notebook with full analysis
 
 ## 📊 Features
