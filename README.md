@@ -10,7 +10,7 @@ This project analyzes student performance using Python and presents insights thr
 - Department-wise average marks
 - Subject-wise performance
 - Attendance vs Marks correlation
-- Identifying at-risk students
+- Identifying at-risk  students
 
 ## 🛠️ Technologies Used
 - Python
